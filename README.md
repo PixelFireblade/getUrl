@@ -1,2 +1,2 @@
 # getUrl
-A Url Finder
+A program that gets the URL you are at
